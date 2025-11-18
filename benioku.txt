@@ -1,0 +1,5 @@
+iki farklı mutasyon işlemi vardır biri pasif haldedir.
+Pasif halde olan farklı şekilde çözülüp dna txtye mutasyonlu haliyle 0dan yazma işlemi yapandır.
+Aktif halde olan çok hızlı çalışır ve ekranda isteğe bağlı olarak mutasyona uğramış geni kromozomla beraber gösterir.
+
+Programı çalıştırdıktan sonra eğer yapılan işlemlerin ekrana yansıtılmasını istiyorsanız ayarlar kısmından bu ayarları aktifleştirebilirsiniz.
