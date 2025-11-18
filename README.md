@@ -1,0 +1,1 @@
+# Veri-yapilari-Odev-1-GenCaprazlama
