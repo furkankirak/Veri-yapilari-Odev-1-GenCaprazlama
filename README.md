@@ -37,19 +37,14 @@ Uygulama, temel olarak `Dna.txt` dosyasındaki kromozomlar üzerinde çalışır
 Projeyi derlemek ve çalıştırmak için bir `make` aracına ve `g++` derleyicisine ihtiyacınız vardır. Reponun ana dizinindeyken aşağıdaki komutu çalıştırabilirsiniz.
 
 Bu komut, kaynak dosyaları derler, nesne dosyalarını bağlayarak `bin/program` çalıştırılabilir dosyasını oluşturur ve programı başlatır.
-
+Linuxda Çalıştırmak için
 ```bash
 make
 ```
-
+Windowsda Çalıştırmak çin
 ```cmd
 mingw32-make
 ```
-
-Alternatif olarak, adımları ayrı ayrı çalıştırabilirsiniz:
-- **Derleme:** `make derleme`
-- **Bağlama:** `make baglama`
-- **Çalıştırma:** `make calistirma`
 
 ## Kullanım
 
